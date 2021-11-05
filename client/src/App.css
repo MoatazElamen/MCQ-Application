@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+.App{
+    position:relative;
+    width:100%;
+    height:100vh;
+}
+.question-container{
+    height:100vh;
+    min-height:500px;
+    display:grid;
+    place-items: center;
+}
+.question-card{
+    gap:10px;
+    min-height:500px;
+    justify-content: center;
+}
+.final-result{
+    position:relative;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.final-result div{
+    font-size:3.5vw;
+    font-weight: bold;
+    text-align: center;
+}
+.final-result h1{
+    font-size:3.5vw;
+}

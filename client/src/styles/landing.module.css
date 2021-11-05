@@ -1,0 +1,13 @@
+.landing{
+    position:relative;
+    height:100vh;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.brand{
+    font-size: 42pt;
+    margin-bottom:15px;
+}

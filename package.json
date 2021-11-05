@@ -1,0 +1,20 @@
+{
+  "name": "master-linux",
+  "version": "1.0.0",
+  "description": "1- clone the repository \r 2- cd server && npm start\r 3- cd client && npm start \r 4- enjoy :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoatazElamen/MCQ-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoatazElamen/MCQ-Application/issues"
+  },
+  "homepage": "https://github.com/MoatazElamen/MCQ-Application#readme"
+}
